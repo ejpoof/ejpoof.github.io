@@ -1,0 +1,33 @@
+<html> <!--Dit is het html-element-->
+   <head>
+      <title>cadeautje</title>
+     <meta charset="utf-8">
+   </head>
+   <body>
+      je bent gesinterklaast
+      <ul>
+        <li><a href="index.html">homepage</a></li>
+       <li><a href="geheugen.html">geheugen</a></li> 
+
+       
+    </ul>
+
+
+   </body>
+   <!DOCTYPE html>  <!--Dit is de homepage van mijn site -->
+   <html> <!--Dit is het html-element-->
+      <head>
+         <title>cadeautje</title>
+        <meta charset="utf-8">
+      </head>
+      <body>
+         je bent gesinterklaast
+         <ul>
+           <li><a href="index.html">homepage</a></li>
+          <li><a href="geheugen.html">geheugen</a></li> 
+       </ul>
+   
+   
+      </body>
+   
+   </html>
